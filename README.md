@@ -10,3 +10,4 @@ streamlit run chat-stockbot.py
 # Simple-php-tasks
 # petstore
 # Doctor-appointment
+# Calculator-App
