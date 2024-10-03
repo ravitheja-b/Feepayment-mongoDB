@@ -1,14 +1,6 @@
-# ML-StockPrice-Prediction
-# ML-StockPrice-Prediction
-pip install -r requirements.txt
-cd models
-streamlit run chat-stockbot.py
-# bookshelf
-# bookshelf
-# Simple-JavaScript-Tasks
-# Simple-Java-xml-parser
-# Simple-php-tasks
-# petstore
-# Doctor-appointment
-# Calculator-App
 # Feepayment-mongoDB
+npm install
+npm run
+##Make sure MongoDB is running
+node app.js
+## App gets started on http://localhost:3000/
